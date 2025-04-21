@@ -96,5 +96,5 @@ s.send("acknowledgement recived from the server".encode())
 
 
 ## Result:
-Thus the study of Socket Programming Completed Successfully
+Thus the study of Socket Programming Completed Successfully.
 
